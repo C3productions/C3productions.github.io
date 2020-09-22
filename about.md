@@ -1,5 +1,5 @@
 # About
-Celtic III Productions programs games, utilities, and more for your TI Graphing Calculators! Check out our latest projects on [Cemetech](https://www.cemetech.net),
+Celtic III Productions programs games, utilities, and more for your TI Graphing Calculators! Check out our latest projects on [Cemetech](http://www.cemetech.net),
 or in the projects section of the  site.
 
 ## Index:
