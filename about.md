@@ -5,8 +5,8 @@ or in the projects section of the  site.
 ## Staff:
 * [BioHazard](https://c3productions.github.io/about/biohazard)
 * [NomKid](https://c3productions.github.io/about/nomkid)
-* [](https://c3productions.github.io/updates)
-* [About](https://c3productions.github.io/about)
+* [RoccoLox Programs](https://c3productions.github.io/about/roccolox)
+* [TIny_Hacker](https://c3productions.github.io/about/tiny_hacker)
 
 ## Index:
 * [Home](https://c3productions.github.io)
