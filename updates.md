@@ -1,10 +1,11 @@
 # Updates
+This section of the site is for updates on the webpage. Check back here for more news! Updates are sorted with the most recent at the top.
 
-Currently, I (TIny-Hacker) am working on changing the theme as well as migrating the website to an organization group. Stay tuned for updates
-on this page!
+# 9-22-20 Update
+Working on creating a group orginization on github for Celtic III productions. I will also set up a theme (view a demo [here](https://longpdo.github.io/neumorphism/)
+for the website. Collaborators, please work on adding your projects to the "Projects" section of the site in the meantime, and fill out your about sections.
 
 ## Index:
 * [Home](https://c3productions.github.io)
 * [Projects](https://c3productions.github.io/projects)
-* [Updates](https://c3productions.github.io/updates)
 * [About](https://c3productions.github.io/about)
