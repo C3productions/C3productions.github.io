@@ -6,4 +6,3 @@ or in the projects section of the  site.
 * [Home](https://c3productions.github.io)
 * [Projects](https://c3productions.github.io/projects)
 * [Updates](https://c3productions.github.io/updates)
-* [About](https://c3productions.github.io/about)
