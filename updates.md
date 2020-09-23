@@ -1,6 +1,10 @@
 # Updates
 This section of the site is for updates on the webpage. Check back here for more news! Updates are sorted with the most recent at the top.
 
+# 9-23-20 Update
+##### By TIny_Hacker
+Currently, I am thinking about changing the theme to [this](https://tianqi.name/jekyll-TeXt-theme/), which is more customizable and easier to customize in general.
+
 # 9-22-20 Update
 ##### By TIny_Hacker
 Working on creating a group orginization on github for Celtic III productions. I will also set up a theme (view a demo of the new theme [here](https://longpdo.github.io/neumorphism/))
