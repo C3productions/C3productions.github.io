@@ -3,7 +3,7 @@ This section of the site is for updates on the webpage. Check back here for more
 
 # 9-23-20 Update
 ##### By TIny_Hacker @ 8:07 PM EST
-Added a repo "new-website". This will be the under-construction repo for the soon to be new website. Parts of this website will still be used, and for now
+Added a repo "website-in-progress". This will be the under-construction repo for the soon to be new website. Parts of this website will still be used, and for now
 it will be mainly for updates, though when the final webstie is done most important info will be transfered over. To access the in-progress website, go to
 [https://c3productions.github.io/website-in-progress](https://c3productions.github.io/website-in-progress). Collaborators from this website repo will be added
 to the new repo as well, notify me (TIny_Hacker) for issues.
