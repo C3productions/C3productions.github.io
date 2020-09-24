@@ -2,6 +2,12 @@
 This section of the site is for updates on the webpage. Check back here for more news! Updates are sorted with the most recent at the top.
 
 # 9-23-20 Update
+##### By TIny_Hacker @ 8:07 PM EST
+Added a repo "new-website". This will be the under-construction repo for the soon to be new website. Parts of this website will still be used, and for now
+it will be mainly for updates, though when the final webstie is done most important info will be transfered over. To access the in-progress website, go to
+[c3productions.github.io/website-in-progress](c3productions.github.io/website-in-progress)
+
+# 9-23-20 Update
 ##### By TIny_Hacker
 Currently, I am thinking about changing the theme to [this](https://tianqi.name/jekyll-TeXt-theme/), which is more customizable and easier to customize in general.
 
